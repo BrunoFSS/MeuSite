@@ -22,3 +22,14 @@ h2 {
     color: rgb(83, 75, 86);
     
 }
+
+img {
+    width: 25px;    
+}
+
+a {
+    text-decoration: none;
+}
+.RedesSocias {
+   text-align: center;
+}
